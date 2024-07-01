@@ -1,4 +1,9 @@
-# LunarLander-DQN-Comparison
+
+<p align="center">
+  <img src="videos/lunar-lander-1rMpv0NYSmiiCGHzS4ge5g-pWlusKK_S4ONk5ZVjI1xbQ.jpeg" style="width: 250px;">
+  
+</p>
+<h1 align="center">LunarLander-DQN-Comparison</h1>
 
 Este repositorio contiene soluciones para el environment de Lunar Lander utilizando tres variantes de Deep Q-Networks (DQN):
 
@@ -39,16 +44,14 @@ El objetivo de este proyecto es comparar el desempeño de tres técnicas avanzad
 A continuación se presentan vídeos demostrativos de la resolución del problema con cada uno de los agentes:
 
 ### DQN (Deep Q-Network)
-<video src="videos/DQN_result.mp4" controls="controls" style="max-width: 100%; height: auto;">
-</video>
+<img src="videos/DQN.gif" alt="DQN" style="max-width: 20%; height: auto;">
 
 ### Double DQN
-<video src="videos/Double_DQN_result.mp4" controls="controls" style="max-width: 100%; height: auto;">
-</video>
+<img src="videos/Double_DQN.gif" alt="Double DQN" style="max-width: 20%; height: auto;">
 
 ### Dueling DQN
-<video src="videos/Dueling_DQN_result.mp4" controls="controls" style="max-width: 100%; height: auto;">
-</video>
+<img src="videos/Dueling_DQN.gif" alt="Dueling DQN" style="max-width: 20%; height: auto;">
+
 
 ## Estructura del repositorio
  <pre>
