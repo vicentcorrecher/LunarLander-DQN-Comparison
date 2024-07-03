@@ -26,7 +26,7 @@ Este repositorio contiene soluciones para el environment de Lunar Lander utiliza
 O ejecutar los notebooks directamente en Google Colab, puedes utilizar los siguientes botones:
 
 - **DQN (Deep Q-Network)** ->
-  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([[https://colab.research.google.com/drive/1-Tbos5aCdj8Qgy_Rz5d8T8tbtm-42TiF#scrollTo=Deep_Q_Learning_for_Lunar_Landing](https://colab.research.google.com/drive/1g4DAVYOhfjIb8CAzdKGx5XEQMDpjWdbT)]](https://drive.google.com/file/d/1cZk1Mr1sPavO9QeHbo2R_TwNzJedssUA/view?usp=sharing))
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1cZk1Mr1sPavO9QeHbo2R_TwNzJedssUA/view?usp=sharing)
 
 - **Double DQN** ->
   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1g4DAVYOhfjIb8CAzdKGx5XEQMDpjWdbT/view?usp=sharing)
